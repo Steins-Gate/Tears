@@ -1,1 +1,2 @@
 # Tears
+    Japanese English alike
