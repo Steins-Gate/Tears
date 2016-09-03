@@ -1,11 +1,5 @@
-# shanaproject
-    Japanese English alike
-    moving
-
-    game ....
-
-
-
-## log
+# hello~!
+    shanaproject
+    Amazing remix
 
 
