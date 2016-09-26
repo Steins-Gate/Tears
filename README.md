@@ -1,5 +1,3 @@
 # hello~!
     shanaproject
     Amazing remix
-
-
