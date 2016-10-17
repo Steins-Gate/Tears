@@ -1,11 +1,7 @@
-# http://www.shanaproject.com/
 /node_modules
-
-# webstorm
 .idea
 
 
-# github ignore
 /resource/test
 /resource/api
 /resource/demo

@@ -1,3 +1,3 @@
 # hello~!
-    shanaproject
-    Amazing remix
+    Get Data from shanaproject
+    List season
